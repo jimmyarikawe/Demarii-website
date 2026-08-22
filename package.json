@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --port 3020",
     "build": "next build",
+    "deploy": "echo 'Build output ready for deployment'",
     "start": "next start --port 3020",
     "lint": "next lint"
   },
